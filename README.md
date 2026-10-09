@@ -1,16 +1,19 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!)](https://git.io/typing-svg)
 
-<!--
-**BiaBiruka/BiaBiruka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Beatriz! ✨
+A software developer from Brazil 🇧🇷
+- 🎓 Graduated in Systems Analysis and Development
+- 📚 Currently specializing in User Experience (UX)
+- 💻 Working as a Full-stack developer at IBM
+- 👾 Big fan of geek culture
+---
 
-Here are some ideas to get you started:
+![TOP Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBiruka&layout=compact&theme=material-palenight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Event Badges
+
+<img alt="hacktoberfest-2025" src="https://github.com/user-attachments/assets/9598f533-e2d0-477f-b43f-68dd22cdf1ce" height='200'/>
+
+---
